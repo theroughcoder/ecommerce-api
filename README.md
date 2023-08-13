@@ -1,4 +1,4 @@
-# [ecommerce-api]([https://facebook-clone-two-livid.vercel.app](https://ecommerce-api-2629.onrender.com/products))
+# [ecommerce-api](https://facebook-clone-two-livid.vercel.app](https://ecommerce-api-2629.onrender.com/products))
 
 ## Overview
 This is a backend project that provides product API for an ecommerce platform admin to manage product inventory.
